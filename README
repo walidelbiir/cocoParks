@@ -1,7 +1,0 @@
-OBSERVATIONS : 
-
-PANDAS est mieux adapté pour cet exercice, généralement pour le traitement et extraction de données 
-NUMPY est mieux adapté pour les scénarios où on aura besoin de calcul lourd sur nos données
-
-
-Les deux librairies peut etre utiliser. 

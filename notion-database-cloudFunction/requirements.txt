@@ -1,0 +1,5 @@
+# requirements.txt
+google-cloud-asset==3.24.0
+google-cloud-storage==2.13.0
+pandas==2.0.3
+requests==2.31.0
