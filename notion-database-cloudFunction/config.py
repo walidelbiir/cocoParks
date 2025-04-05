@@ -15,9 +15,8 @@ ASSET_TYPES = [
     "storage.googleapis.com/Bucket",
     "container.googleapis.com/Cluster",
     "sqladmin.googleapis.com/Instance",
-    # Add more asset types as needed
 ]
 
 # Notion API Configuration
-NOTION_API_KEY = "your-notion-api-key"
-NOTION_DATABASE_ID = "your-notion-database-id"
+NOTION_API_KEY = "ntn_o26376547504HL2EqsiTXqNbwiqG5viRcYMD6QJKr3IfBz"
+NOTION_DATABASE_ID = "1c909d376ade80d3aedafb8e58f7c6af"
